@@ -6,3 +6,4 @@
 - [选择排序](Sort/selectSort.php)
 - [插入排序](Sort/insertSort.php)
 - [快速排序](Sort/quickSort.php)
+- [归并排序](Sort/mergeSort.php)
